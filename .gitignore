@@ -1,0 +1,4 @@
+.DS_Store
+.aws-sam/
+output.yaml
+samconfig.toml
